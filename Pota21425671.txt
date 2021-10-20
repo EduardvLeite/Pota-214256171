@@ -7,7 +7,9 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 
 public class Main {
-
+	//Ricardo Amaral Souza 21433825
+	//Nathan Reis da Silva 21369631
+	//Eduardo Vasconcelos Leite 21425671
 	public static void main(String[] args) {
 
 		ArrayList<String> nome = new ArrayList<String>();
